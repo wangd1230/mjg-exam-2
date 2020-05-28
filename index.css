@@ -1,0 +1,35 @@
+.header h4{
+	text-align: center;
+	margin-top: 10px;
+}
+.box{
+	justify-content: space-around;
+}
+.footer{
+	height: 60px;
+	background-color: #89c3eb;
+}
+.footer p{
+	text-align: center;
+	color: #fff;
+	line-height: 60px;
+	margin: 0;
+}
+.btn{
+	margin: 0 atuo;
+}
+.complete{
+	text-align: center;
+	height: 20px;
+	color: #84b9cb;
+}
+.subox{
+	display: flex;
+	justify-content: center;
+}
+/*body{
+	width: 100%;
+}*/
+/*.paper{
+	width: 80%;
+}*/
